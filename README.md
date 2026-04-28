@@ -1,1 +1,1 @@
-# food_app
+# food_restaurant_app
